@@ -1,0 +1,25 @@
+html, body {
+    font-size: 10px;
+    font-family: Protest Strike;
+    margin: 10px;
+    padding: 0 20px 20px 20px;
+    background-color: wheat;
+    border: 10px solid black;
+}
+p,li {
+    color: red;
+    font-size: 16px;
+    line-height: 15px;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+h2 {
+    color: pink;
+    text-align: center;
+}
